@@ -4,10 +4,14 @@ In this project scenario, I will use actual [YELP](https://www.yelp.com/dataset/
 
 I will then apply the skills they have acquired in the preceding Designing Data Systems Course to architect and design a Data Warehouse DWH for the purpose of reporting and online analytical processing (OLAP).
 
+## Data Architecture
+![alt text](Data_Architecture_Diagram.JPG)
+## ER Diagram
+![alt text](ER_Diagram.JPG)
+## Star Schema
+![alt text](star_schema.JPG)
 ## STAGING Information
 ![alt text](STAGING.JPG)
-
-
 ## Operational Data Store Information
 ![alt text](ODS.JPG)
 ## Data Warehouse Information
