@@ -5,9 +5,8 @@ In this project scenario, I will use actual YELP and climate datasets in order t
 I will then apply the skills they have acquired in the preceding Designing Data Systems Course to architect and design a Data Warehouse DWH for the purpose of reporting and online analytical processing (OLAP).
 
 ## STAGING Information
-
-
-## ODS Information
-
-
-## DWH Information
+![alt text](STAGING.JPG)
+## Operational Data Store Information
+![alt text](ODS.JPG)
+## Data Warehouse Information
+![alt text](DWH.JPG)
