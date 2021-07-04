@@ -6,6 +6,8 @@ I will then apply the skills they have acquired in the preceding Designing Data 
 
 ## STAGING Information
 ![alt text](STAGING.JPG)
+
+
 ## Operational Data Store Information
 ![alt text](ODS.JPG)
 ## Data Warehouse Information
